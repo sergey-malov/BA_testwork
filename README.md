@@ -27,7 +27,7 @@
 ---
 
 ## 📊 Схема процесса (Mermaid)
-> [!TIP] <img width="400" height="400" alt="Image" src="Task1-bpmn_with_overlays.png" />
+> [!TIP] 
 > Если схема ниже не отображается, убедитесь, что вы просматриваете README в интерфейсе GitHub.
 
 ```mermaid
